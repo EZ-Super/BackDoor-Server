@@ -9,6 +9,7 @@
 
 int main()
 {
+    printf("connection\n");
     int sock,ClientSocket;
     char buffer[1024];
     char response[18384];
@@ -23,7 +24,7 @@ int main()
     }
     server_address.sin_family = AF_INET;
     server_address.sin_addr.s_addr = inet_addr("192.168.0.170");
-    server_address.sin_port = htons(50004);
+    server_address.sin_port = htons(50005);
 
     bind(sock,(struct sockaddr *)&server_address,sizeof(server_address));
     listen(sock,5);
