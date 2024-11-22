@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "server::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-server-Debug-392cea4b0bf044afd43a.json",
+					"jsonFile" : "target-server-Debug-8e74f1348c8e40e17332.json",
 					"name" : "server",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/ousu/Desktop/server/cmake-build-debug",
-		"source" : "/home/ousu/Desktop/server"
+		"build" : "/home/ousu/Desktop/server/BackDoor-Server/cmake-build-debug",
+		"source" : "/home/ousu/Desktop/server/BackDoor-Server"
 	},
 	"version" : 
 	{

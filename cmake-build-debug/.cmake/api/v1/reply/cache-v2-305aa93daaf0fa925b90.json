@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/ousu/Desktop/server/cmake-build-debug"
+			"value" : "/home/ousu/Desktop/server/BackDoor-Server/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/ousu/Desktop/server/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/ousu/Desktop/server/BackDoor-Server/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/ousu/Desktop/server"
+			"value" : "/home/ousu/Desktop/server/BackDoor-Server"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1163,7 +1163,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/ousu/Desktop/server/cmake-build-debug"
+			"value" : "/home/ousu/Desktop/server/BackDoor-Server/cmake-build-debug"
 		},
 		{
 			"name" : "server_IS_TOP_LEVEL",
@@ -1187,7 +1187,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/ousu/Desktop/server"
+			"value" : "/home/ousu/Desktop/server/BackDoor-Server"
 		}
 	],
 	"kind" : "cache",
